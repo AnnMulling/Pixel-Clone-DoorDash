@@ -1,0 +1,67 @@
+.footer {
+    background-color: rgb(25, 25, 25);
+    width: 100vw;
+    height: fit-content;
+}
+
+.table__container {
+    /* border: solid red; */
+    padding: 40px 50px;
+}
+
+.table {
+    color: rgb(196, 196, 196);
+    font-weight: lighter;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+th {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+td {
+    padding: 10px 50px;
+    font-size: 14px;
+}
+
+
+.last__row > ul > li > a{
+  text-decoration: none;
+  color: rgb(196, 196, 196);
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+.last__row {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 12px
+}
+
+/*select languages*/
+select {
+    padding: 8px;
+    color: rgb(8, 8, 8);
+    background-color: rgb(255, 255, 255);
+    border-radius: 24px;
+    margin-right: 5px;
+}
+
+#social__icons {
+    text-decoration: none;
+}
+
+#social__icons  > svg {
+    padding-right: 0 10px;
+    margin-left: 10px;
+
+}
+
+/*application*/
+#apple-store {
+    background-color: rgb(73, 73, 73);
+    border-radius: 24px;
+    padding: 8px;
+}
