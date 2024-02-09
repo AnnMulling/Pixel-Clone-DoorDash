@@ -1,12 +1,11 @@
 /*----------------section4----------------------*/
 
 .section4 {
-    background-image: url('../../image/grocery_desktop.avif');
+    background-image: url('../../image/grocery.avif');
     display: block;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
     position: relative;
     height: 600px;
 
