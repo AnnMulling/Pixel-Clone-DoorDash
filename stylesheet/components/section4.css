@@ -1,7 +1,7 @@
 /*----------------section4----------------------*/
 
 .section4 {
-    background-image: url('/Users/primpraowmulling/Desktop/Aa-Mod3/project-pixel-clone1/image/grocery_desktop.avif');
+    background-image: url('../../image/grocery_desktop.avif');
     display: block;
     background-size: cover;
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@
     justify-content: center;
 
     text-align: center;
-   
+
     font-size: 24px;
     letter-spacing: -0.01ch;
     color: white;

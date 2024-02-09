@@ -7,7 +7,7 @@ body {
 }
 
 .header {
- background-image: url('../../../project-pixel-clone-door-dash/image/hero_landing_us_desktop.jpg');
+ background-image: url('../../image/hero_landing_us_desktop.jpg');
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
