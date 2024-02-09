@@ -2,6 +2,9 @@
 
 <img width="1753" alt="Screenshot 2024-02-09 at 3 23 47 PM" src="https://github.com/AnnMulling/Pixel-Clone-DoorDash/assets/105256768/88d2b149-6379-4087-a9f3-593129610ad1">
 
+# Live Link
+https://annmulling.github.io/pixel-clone-doordash/
+
 
 <div>
   <p> This project is a recreation of the renowned DoorDash website, known for its user-friendly interface and seamless food delivery service. 
